@@ -27,7 +27,7 @@ let delete_last_pos =currencies.pop();
 let delete_esp_pos =currencies.splice(1,2);
 //Pocision indice de una moneda
 let currency_pos = currencies.indexOf('EUR')
-console.log({currency_pos,currencies})*/
+console.log({currency_pos,currencies});*/
 //Se crea ejercicio que nos pida tres numeros en pantalla
 
 let arr = [];
